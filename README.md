@@ -2,6 +2,7 @@
 
 
 ### Introduction
+***
 The field of astrophysics, where large datasets need to be processed rather quickly and efficiently, is a golden opportunity
 for the application of machine learning. Over the past decade or so, advances have been steadily growing in the field, with various
 algorithms used to process data. Specific applications range from identifying quasars, to mapping large scale galactic structures, to 
@@ -10,6 +11,7 @@ for a semester-long project was using machine learning to parse data from the Ke
 star systems containing exoplanets. Further theory is discussed in the wiki.
 
 ### Repo Organization
+***
 The repository contains two Jupyter notebooks which currently serve as proof-of-concept for deeper analysis. The "Data" directory contains
 a zip archive of .csv files of the data sets used in the code, along with descriptions of each. The "Random" directory contains a few pieces
 of in-progress code. Note: unless your machine contains absurd amounts of RAM, the Feature Extraction notebook is unsafe to run over more than 
