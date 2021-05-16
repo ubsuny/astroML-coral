@@ -12,7 +12,8 @@ star systems containing exoplanets. Further theory is discussed in the wiki.
 
 ### Repo Organization
 ***
-The repository contains two Jupyter notebooks which currently serve as proof-of-concept for deeper analysis. An example of methods created for
+The physics background for the project is demonstrated in the Ligh_Curve_Demo notebook. The Flux_Algo notebook implements a machine learning algorithm that conducts a simple binary search for whether a system has an exoplanet. 
+An example of methods created for
 analysis is in the third "example" notebook. The "Data" directory contains the txt files that are used for data procurement. Unfortunately, the processed datasets are too large to store on github even when zipped. The "Random" directory contains a few pieces of in-progress code. Note: unless your machine contains absurd amounts of RAM, the Feature Extraction notebook is unsafe to run over more than  ~2000 rows of data.
 
 The Tools folder contains data processing functionality for various parts of the project. 
